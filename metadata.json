@@ -1,0 +1,7 @@
+{
+  "name": "CRYPTOVA - Global Crypto Intelligence",
+  "description": "Automated multilingual cryptocurrency news & market intelligence platform featuring AI editorial synthesis, real-time crypto markets, automated affiliate matching, and dynamic banner advertising.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
